@@ -21,4 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imabhi7&show_icons=true&locale=en" alt="imabhi7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imabhi7&" alt="imabhi7" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imabhi7&label=Profile%20views&color=0e75b6&style=flat" alt="imabhi7" /> </p>
+
+[![GitHub followers](https://img.shields.io/github/followers/imabhi7.svg?style=social&label=Follow)](https://github.com/imabhi7?tab=followers)
