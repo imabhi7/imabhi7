@@ -1,6 +1,6 @@
 ![AB](https://github.com/imabhi7/imabhi7/assets/119751421/c6e485ca-bf30-4120-b0d1-e088bb196af5)
 
-<h1>Hi 👋, I'm Abhinav Barman and welcome to my GitHub profile!</h1>
+<h1>Hi👋, I'm Abhinav Barman and welcome to my GitHub profile!</h1>
 <h3>I'm currently pursuing my Bachelor's degree in Electrical Engineering from Indian Institute of Technology, Ropar. I have keen interest in web-development, data structures & algorithms, product management, music production, and video editing.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
 
