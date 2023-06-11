@@ -2,11 +2,10 @@
 
 <h1>Hi👋, I'm Abhinav Barman and welcome to my GitHub profile!</h1>
 <h3>I'm currently pursuing my Bachelor's degree in Electrical Engineering from Indian Institute of Technology, Ropar. I have keen interest in web-development, data structures & algorithms, product management, music production, and video editing.</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
 
-
-
-<h3 align="left">Connect with me:</h3>
+# 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/abhinav-barman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav-barman" height="30" width="40" /></a>
 <a href="https://fb.com/abhinav barman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhinav barman" height="30" width="40" /></a>
