@@ -3,7 +3,7 @@
 <h1>Hi👋, I'm Abhinav Barman and welcome to my GitHub profile!</h1>
 <h3>I'm a final-year Electrical Engineering student at lIT Ropar with a keen interest in technology and software development. I'm an avid learner who enjoys exploring new skills across various domains. I'm eager to connect and explore opportunities to utilize my skills and create a meaningful impact.</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
 
 # 🌐 Connect with me:
 
